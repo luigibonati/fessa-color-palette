@@ -1,7 +1,7 @@
 # FESSA: the ultimate Free Energy Surface Synoiptic Analysis tool
 # Inspired by https://color.adobe.com/Vitamin-C-color-theme-492199
 # Created on Dec 20, 2017
-# by L. Bonati, E. Grifoni, M. Inivernizzi, GM. Piccini 
+# by L. Bonati, E. Grifoni, M. Invernizzi, GM. Piccini 
 
 # line styles
 set style line  1 lt 1 lc rgb '#1F3B73' # dark-blue
